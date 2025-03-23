@@ -2,5 +2,5 @@ Hello World!
 
 ### This is a markdown file
 ```
-Hello world prt 2
+What is expense tracker?
 confirm git
